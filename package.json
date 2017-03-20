@@ -1,0 +1,19 @@
+{
+  "name": "australia-jellyfish",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "aws-update": "claudia update"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "claudia": "^2.9.0"
+  },
+  "dependencies": {
+    "claudia-bot-builder": "^2.15.0",
+    "huh": "^2.0.1"
+  }
+}
